@@ -2,13 +2,21 @@
 
 # human-pose-series-classification
 
-An Transformer implementation of <a href="https://github.com/Wedding33/Classification-of-human-posture">human-pose-series-classification</a>.
+3 Types of models of <a href="https://github.com/Wedding33/Classification-of-human-posture">human-pose-series-classification</a>.
 
 ## Install
 
-Just download the code as a zip file and extract it.
+CNN data:
+CNN model:
+RNN(lstm) data:
+RNN(lstm) model:
+Transformer data:
+Transformer model:
 
 ## Usage
+
+### CNN train:
+-
 
 ### To train:
 
