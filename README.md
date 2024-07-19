@@ -1,4 +1,4 @@
-# Classification-of-human-posture
+# Humanposture Classification
 
 # human-pose-series-classification
 
